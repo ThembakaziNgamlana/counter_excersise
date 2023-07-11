@@ -1,3 +1,4 @@
+// add function for the counter
 function Counter() {
     return {
       count: 0,

@@ -1,5 +1,5 @@
 
-
+// add counter 1 and counter 2
 
 const counter1 = Counter();
 const counter2 = Counter();
